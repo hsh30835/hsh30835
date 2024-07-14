@@ -1,5 +1,5 @@
 ## 안녕하세요 저는 홍성혁입니다.
 제가 만든 기능이 작동하고 눈에 보여질 때 재미와 성취감을 느낍니다.
 ---
-email : login7h@gmail.com
+email : login7h@gmail.com<br>
 ![무당새](/무당새.jpg "무당새 이미지")
